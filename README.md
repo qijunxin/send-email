@@ -1,4 +1,7 @@
 # SendEmail
 send-email animation using svg/css3
 
- ![image](https://github.com/qijunxin/SendEmail/blob/master/snapshot.png)
+demo see http://qijunxin.github.io/send-email
+
+snapshot:
+ ![image](https://github.com/qijunxin/send-email/blob/master/snapshot.png)
